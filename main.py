@@ -100,3 +100,4 @@ if __name__ == '__main__':
     print(f'Mean reward sft: {torch.sum(sft_reward.detach().cpu().mean(dim=0)).item()}')
     print(f'Mean reward sft: {torch.sum(policy_reward.detach().cpu().mean(dim=0)).item()}')
 
+
