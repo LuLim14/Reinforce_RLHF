@@ -20,4 +20,5 @@ python main.py --use_wandb '[False|True]' --path_to_checkpoints_sft_model [path 
 
 ## Ссылка на отчет
 
+https://wandb.ai/lulim/Reinforce_RLHF/reports/Reinforce-RLHF--VmlldzoxMDU4MzAwNg
 
